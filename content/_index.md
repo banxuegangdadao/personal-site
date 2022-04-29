@@ -1,6 +1,6 @@
 ---
 title: '首页'
-meta_title: 'Hugo Serif Theme'
+meta_title: '山5里人'
 description: ""
 intro_image: "images/illustrations/main.png"
 intro_image_absolute: true
