@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>读书笔记 on 一茶一酒一人生,一人一马一江湖</title>
-    <link>https://example.com/reading/</link>
+    <link>http://www.superluminal.ml/reading/</link>
     <description>Recent content in 读书笔记 on 一茶一酒一人生,一人一马一江湖</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/reading/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.superluminal.ml/reading/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

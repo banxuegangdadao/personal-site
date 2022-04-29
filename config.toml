@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://www.superluminal.ml"
 languageCode = "en-us"
 title = "一茶一酒一人生,一人一马一江湖"
 #themesDir = "themes/hugo-serif-theme"
